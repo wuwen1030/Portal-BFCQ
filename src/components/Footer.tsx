@@ -123,7 +123,7 @@ export default function Footer() {
         <div className="border-t border-slate-200 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-slate-500 text-sm">
-              © 2025 比飞长轻科技有限公司. 保留所有权利.
+              © 2025 杭州比飞长轻科技有限公司. 保留所有权利.
             </p>
             <div className="flex gap-4 mt-4 md:mt-0">
               <Link href="#" className="text-sm text-slate-500 hover:text-blue-600 transition-colors">

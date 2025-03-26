@@ -81,7 +81,7 @@ export default function AboutSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold mb-4 text-white">企业介绍</h2>
           <p className="text-lg text-slate-400 max-w-3xl mx-auto">
-            比飞长轻是一家专注于电子设计自动化（EDA）的高科技企业，致力于为客户提供先进、高效的设计工具和解决方案，
+            杭州比飞长轻是一家专注于电子设计自动化（EDA）的高科技企业，致力于为客户提供先进、高效的设计工具和解决方案，
             帮助工程师应对当今电子产品设计中的各种挑战。
           </p>
         </div>
@@ -104,7 +104,7 @@ export default function AboutSection() {
         <div className="mt-24 text-center">
           <h2 className="text-3xl font-bold mb-4 text-white">我们的技术优势</h2>
           <p className="text-lg text-slate-400 max-w-3xl mx-auto mb-10">
-            比飞长轻在EDA领域拥有多项核心技术专利，我们的解决方案结合了先进的算法、人工智能和业界最佳实践，
+            杭州比飞长轻在EDA领域拥有多项核心技术专利，我们的解决方案结合了先进的算法、人工智能和业界最佳实践，
             为客户提供卓越的设计体验。
           </p>
           

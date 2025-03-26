@@ -58,15 +58,11 @@ export default function AboutSection() {
             <ul className="text-slate-600 space-y-2">
               <li className="flex items-start">
                 <span className="mr-2 text-blue-500">•</span>
-                <span>团队成员毕业自清华、北大、复旦等211、985名校</span>
+                <span>团队成员毕业自中科大、南大、南理工等985、211名校</span>
               </li>
               <li className="flex items-start">
                 <span className="mr-2 text-blue-500">•</span>
                 <span>核心技术人员曾就职于阿里巴巴、字节跳动、华为等知名企业</span>
-              </li>
-              <li className="flex items-start">
-                <span className="mr-2 text-blue-500">•</span>
-                <span>平均拥有8年以上芯片设计与EDA开发经验</span>
               </li>
             </ul>
           </div>

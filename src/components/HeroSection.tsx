@@ -28,7 +28,7 @@ export default function HeroSection() {
             </h1>
             
             <p className="text-lg mb-8 text-slate-700">
-              比飞长轻致力于提供先进的EDA（电子设计自动化）解决方案，
+              杭州比飞长轻致力于提供先进的EDA（电子设计自动化）解决方案，
               帮助客户简化设计流程，提高生产效率，实现创新突破。
             </p>
             
